@@ -4,9 +4,13 @@
 The dataset focuses on airline and airport performance metrics. It includes:
 
 Time Dimensions: Year, Month, and Date for flight delays.
+
 Airports & Airlines: Specific identifiers and names for airports and airlines.
+
 Delay Causes: Categorization into Carrier, Late Aircraft, Weather, Security, and National Aviation System.
+
 Flight Details: Total flights, delayed flights, diverted flights, and canceled flights.
+
 Delay Durations: Minutes delayed for each category (e.g., weather, security).
 
 # Key Insights from the Dashboard
