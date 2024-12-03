@@ -30,7 +30,13 @@ Monthly_Delays - Number of delays each month across different categories.
 
 Charts
 
-1. Monthly Total Delay Counts
+
+![swati's Dashboard](https://github.com/user-attachments/assets/94ee62a1-edcf-4034-b1bf-b35ed990d704)
+
+
+
+
+1.Monthly Total Delay Counts
 
 This chart visualizes the total number of delayed flights for each month.
 
