@@ -36,7 +36,7 @@ Charts
 
 
 
-1.Monthly Total Delay Counts
+1. Monthly Total Delay Counts
 
 This chart visualizes the total number of delayed flights for each month.
 
