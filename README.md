@@ -217,25 +217,25 @@ Mitigation strategies can focus on causes with the longest delays.
 
 Key Observations:
 
-Delay Trends and Patterns:
+1.Delay Trends and Patterns:
 
 Monthly variations highlight peak delay periods.
 
 Weather and operational issues are significant delay causes.
 
-Airline Performance:
+2.Airline Performance:
 
 Top-performing airlines demonstrate lower average delay times.
 
 Security delays impact specific airlines more.
 
-Geographic Insights:
+3.Geographic Insights:
 
 Certain airports consistently report higher delays.
 
 Major urban centers handle higher flight volumes.
 
-Operational Efficiency:
+4.Operational Efficiency:
 
 Long-term strategies can target peak delay periods and high-delay airports.
 
@@ -243,22 +243,23 @@ Enhanced security and operational procedures can reduce delays.
 
 # Managerial Implications:
 
-Risk Mitigation Strategies:
+1.Risk Mitigation Strategies:
 
 Focus on addressing key delay causes, particularly weather and operational issues.
 
 Predictive models can help mitigate high-risk periods.
 
-Targeted Improvements:
+2.Targeted Improvements:
 
 Operational enhancements at high-delay airports can reduce overall delays.
 
 Adoption of best practices from top-performing airlines.
 
-Data-Driven Decision Making:
+3.Data-Driven Decision Making:
 
 Integrating insights from delay causes and patterns into decision-making.
 
 Enhanced scheduling and resource allocation based on delay trends.
+
 
 This dashboard provides a comprehensive understanding of flight delay factors, enabling stakeholders to design data-backed strategies for minimizing delays and optimizing operational efficiency.
